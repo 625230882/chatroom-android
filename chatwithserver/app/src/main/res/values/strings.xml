@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">chatwithserver</string>
+    <string name="register_id">0f14d0ab-9605-4a62-a9e4-5ed26688389b</string>
+    <string name="preference_register_id">rqrqrq</string>
+
+    <string name="default_client_id">1</string>
+    <string name="preference_key_client_id">client_id</string>
+
+    <string name="default_server_url">http://yangreningdembp.home:8080/chat</string>
+    <string name="preference_key_server_url">url</string>
+
+    <string name="default_username">renqing_yang</string>
+    <string name="preference_key_username">name</string>
+</resources>
